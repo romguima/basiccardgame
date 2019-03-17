@@ -39,11 +39,11 @@ The service will start on port 8080 by default.
 
 The following URLs are available:
 
-#####Swagger  (http://localhost:8080/swagger-ui.html)
+###### Swagger  (http://localhost:8080/swagger-ui.html)
 All the endpoints available on the API are shown and testable through this page.
 
 
-#####H2 Console (http://localhost:8080/h2/)
+###### H2 Console (http://localhost:8080/h2/)
 The in-memory relational database in use is accessible through its own web console.
 To access the DB use the following parameters:
 - Saved settings: `Generic H2 (Embedded)`
